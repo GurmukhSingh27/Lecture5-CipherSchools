@@ -1,2 +1,2 @@
 # Lecture5-CipherSchools
-assignments of lecture 5
+assignments of this lecture
